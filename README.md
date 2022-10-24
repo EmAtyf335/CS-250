@@ -1,3 +1,6 @@
+CS-305-Week-8
+
+
 Question 1: How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
 Interpreting user needs will generally start with the analysis of the system.  This can be done by asking the team for feedback,asking previous users for any errors or changes they should see within the code.  Inputs and outputs should also be identified as well. User stories can help with gathering this information because this is where the users can express their needs and wants.  Looking at the user stories will help us understand the end users perspective.  
